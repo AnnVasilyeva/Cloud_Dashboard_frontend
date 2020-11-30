@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/knhj5s2va67mvw7x?svg=true)](https://ci.appveyor.com/project/AnnVasilyeva/cloud-dashboard-frontend)
 
-[GitHub Pages]()
+[GitHub Pages](https://annvasilyeva.github.io/Cloud_Dashboard_frontend/)
 
 ## Клиентская часть
 
